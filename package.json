@@ -1,0 +1,26 @@
+{
+  "name": "fizzbuzz",
+  "version": "1.0.0",
+  "description": "Simple javascript text application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sorchosky/fizzbuzz.git"
+  },
+  "keywords": [
+    "fizz",
+    "buzz",
+    "fizzbuzz",
+    "Steve",
+    "Orchosky"
+  ],
+  "author": "Steve Orchosky",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sorchosky/fizzbuzz/issues"
+  },
+  "homepage": "https://github.com/sorchosky/fizzbuzz#readme"
+}
